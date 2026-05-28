@@ -85,6 +85,6 @@ Packt → Apress → Manning → O’Reilly → No Starch Press → Pragmatic Bo
 
 ## Simple Example
 
-1. Rust Domain Driven Design Example. ``
+1. Rust Domain Driven Design Example. `https://github.com/jdomenechb/rust-ddd-example`
 2. A repository to gather example codes from tutorial and other documentations. `https://github.com/eliovir/rust-examples`
 3. A small Rust CLI example. `https://github.com/alfredodeza/rust-cli-example`
